@@ -3,8 +3,8 @@ A look into my data learning journey!
 
 Inclues a compilation of SQL queries and Python code.
 
-In this GitHub, there are two branches: Main and Learning
+In this GitHub, there are two branches: main and learning
 
-1. The "Main" branch is for data projects.
+1. The "main" branch is for completed data projects.
 
-2. The "Learning branch" is for practice code/projects. 
+2. The "learning" branch is for practice code/projects. 
