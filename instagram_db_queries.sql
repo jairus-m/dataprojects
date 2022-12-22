@@ -104,8 +104,6 @@ LIMIT 7;
 
 7. Find users who have liked every single photo on the site.
 
-SELECT COUNT(*) FROM photos; = 257 photos and use in HAVING 
-
 SELECT 
     username,
     COUNT(*) as total
